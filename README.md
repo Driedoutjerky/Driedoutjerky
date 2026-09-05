@@ -2,25 +2,28 @@
 
 ## Introduction
 
-- 🌱 I’m currently learning Java, Data Structure, C++ etc.
-- 👯 I’m looking to collaborate on game project.
-- 🤔 I’m looking for help with studying Java, C#, C++
+- 🌱 I’m currently learning Kotlin, XAI, Deep Learning, Memory security, homomorphic encryption
+- 👯 I’m looking to participate in a project.
+- 🤔 I’m looking for help with studying XAI, Deep Learning.
 - 📫 How to reach me: See "Contacts"
 
 ## Interest
 - 🎮 I'm interested in developing game project, or contributing to any project related to game.
-  - Which is why I am studying C# for Unity, and C++ for Unreal Engine. Also studies related to database management. 
+  - Which is why I am studying C# for Unity, and C++ for Unreal Engine. Also studies related to database management.
+- Recently, I also got interested in applying XAI in cybersecurity and deep learning field.
 - 🎲 I'm interested in creating my own game based on the story and soundtrack I've made.
 - 🎵 Also interested in composing music. *Maybe you can find my works somewhere...*
 
 ## Tech/Skill
+- C
 - C++ (for Unity)
 - java
 - MySQL
 - Python
 
-## My Projects
-### *COMING SOON*
+## My Mini-Projects
+- Security breach detection modeling through network intrusion data (team project)
+- Implementation of page-swapping through aging-algorithm in xv6-riscv (team project)
 
 ## Github Stats
 <p align="center">
